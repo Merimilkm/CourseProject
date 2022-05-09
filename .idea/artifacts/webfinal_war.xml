@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webfinal:war">
+    <output-path>$PROJECT_DIR$/EpamTrainingGretchenko-finalproject/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>webfinal</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="webfinal-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="webfinal:war exploded" />
+    </root>
+  </artifact>
+</component>

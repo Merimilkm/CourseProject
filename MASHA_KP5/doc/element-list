@@ -1,0 +1,16 @@
+com.nyha.webfinal.controller
+com.nyha.webfinal.controller.command
+com.nyha.webfinal.controller.command.impl
+com.nyha.webfinal.controller.filter
+com.nyha.webfinal.entity
+com.nyha.webfinal.exception
+com.nyha.webfinal.model.dao
+com.nyha.webfinal.model.dao.impl
+com.nyha.webfinal.model.service
+com.nyha.webfinal.model.service.impl
+com.nyha.webfinal.pool
+com.nyha.webfinal.tag
+com.nyha.webfinal.util
+com.nyha.webfinal.validator
+test.nyha.webfinal.model.service.impl
+test.nyha.webfinal.validator
